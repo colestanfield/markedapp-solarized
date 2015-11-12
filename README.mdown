@@ -10,3 +10,4 @@ Report issues or improvements on [the project issues page](https://github.com/jg
 ## Contributors:
 
 * [Daiderd Jordan](https://github.com/L0CKnL0aD7)
+* [Cole Stanfield](https://github.com/colestanfield)
